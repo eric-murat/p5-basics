@@ -1,7 +1,8 @@
 # p5-basics
 Les bases de P5.js  
 Lien avec Github effectué  
-2eme test ... OK!
+2eme test PC BL ... OK!  
+Test de modif depuis PC Fixe Maison
 
 ## ex01_startPage
 Exemple basique : affichage du Canvas
