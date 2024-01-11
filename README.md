@@ -1,6 +1,7 @@
 # p5-basics
-Les bases de P5.js
-Lien avec Github effectué 2eme test
+Les bases de P5.js  
+Lien avec Github effectué  
+2eme test ... OK!
 
 ## ex01_startPage
 Exemple basique : affichage du Canvas
