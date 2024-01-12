@@ -4,6 +4,7 @@ PC BL : lien avec Github effectué
 PC BL : 2eme test de modif ... OK!  
 PC Fixe : lien avec Github effectué  
 PC Fixe : 2ème test de modif ... OK!
+PC BL : 3eme test de modif ... OK!  
 
 ## ex01_startPage
 Exemple basique : affichage du Canvas
