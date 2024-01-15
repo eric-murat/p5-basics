@@ -8,7 +8,8 @@ Exemple basique : affichage d'un Canvas
 Reprise du [Coding Challenge #001](https://www.youtube.com/watch?v=17WoOqgXsRM) de The Coding Train (Youtube) - corrigé  
 Affichage d'un champ d'étoiles défilant à vitesse variable  
 
-CONFLIT
+## ex03_rect
+Exemple basique : dessiner un rectangle (et du texte aussi)
 
 ## Modifs du repo Github depuis des sources externes
 PC BL : lien avec Github effectué  
