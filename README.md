@@ -8,6 +8,8 @@ Exemple basique : affichage d'un Canvas
 Reprise du [Coding Challenge #001](https://www.youtube.com/watch?v=17WoOqgXsRM) de The Coding Train (Youtube) - corrigé  
 Affichage d'un champ d'étoiles défilant à vitesse variable  
 
+CONFLIT
+
 ## Modifs du repo Github depuis des sources externes
 PC BL : lien avec Github effectué  
 PC BL : 2eme test de modif ... OK  
