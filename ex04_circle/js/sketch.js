@@ -7,23 +7,23 @@ function draw() {
   //describe('A white rectangle with a black outline on a gray canvas.');
   rectMode(CORNER);
   fill(255);
-  rect(50, 20, 100, 55);
-  // Texte noir taille 18
+  circle(100, 50, 50);
+    // Texte noir taille 18
   fill('black');
   textSize(18);
-  text('rect(50, 20, 100, 55)', 180, 50);
+  text('circle(100, 50, 50)', 180, 50);
 
   fill('yellow');
-  rect(50, 100, 100, 55, 20);
+  circle(100, 130, 100);
   // Texte noir taille 18
   fill('black');
-  text('rect(50, 100, 100, 55, 20)', 180, 130);
+  text('circle(100, 130, 100)', 180, 130);
 
   fill('green');
-  rect(50, 200, 100, 55, 0, 10, 20, 30);
+  circle(100, 220, 10);
   // Texte noir taille 18
   fill('black');
-  text('rect(50, 200, 100, 55, 0, 10, 20, 30)', 180, 230);
+  text('circle(100, 220, 10)', 180, 230);
 
 
 }
